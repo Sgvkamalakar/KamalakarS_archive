@@ -2,4 +2,4 @@
 - I'm currently pursuing B.Tech in Computer Science from Andhra University College of Engineering, Visakhapatnam
 - I’m interested in programming, playing chess, writing blogs and reading science fiction stories
 - AI and ML enthusiast, deployed an ML model
-- Reach me through sgvkamalakar@gmail.com, https://www.linkedin.com/in/gowri-vinay-kamalakar-satapathi-9a6556213/
+- Reach me through sgvkamalakar@gmail.com, https://www.linkedin.com/in/kamalakar-satapathi-9a6556213/
