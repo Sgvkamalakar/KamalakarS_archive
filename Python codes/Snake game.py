@@ -60,7 +60,6 @@ def game_loop():
             food_y = round(random.randrange(0, window_height - block_size) / 10.0) * 10.0
             snake_length += 1
             score += 1
-            # snake_speed+=0.1
         if len(snake_list) > snake_length:
             del snake_list[0]
         snake_list.append([snake_head_x, snake_head_y])
